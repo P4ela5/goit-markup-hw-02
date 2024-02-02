@@ -7,7 +7,7 @@ body {
 }
 
 .logo {
-    font-family: "Roboto", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     color: #4d5ae5;
     font-size: 18px;
@@ -83,9 +83,10 @@ ul {
 
 .hero-button:focus {
     color: #404BBF;
+    background-color: #404BBF;
 }
 
-.ot-header {
+.ot-header h3 {
     font-weight: 500;
     color: #2e2f42;
     font-weight: 500;
@@ -94,7 +95,7 @@ ul {
     letter-spacing: 0.02em;  
 }
 
-.ot-text {
+.ot-text p {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
@@ -109,7 +110,7 @@ ul {
     text-align: center;
 }
 
-.team-list {
+.team-list{
     text-align: center;
 }
 
@@ -124,7 +125,7 @@ ul {
     text-align: center;
     color: #2e2f42;
 }
-.portfolio-header {
+.portfolio-header h3 {
     font-weight: 500;
     color: #2e2f42;
     font-weight: 500;
@@ -133,7 +134,7 @@ ul {
     letter-spacing: 0.02em;  
 }
 
-.portfolio-text {
+.portfolio-text p {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
@@ -161,7 +162,7 @@ ul {
 .footer-logo-accent {
     color:#f4f4fd 
 }
-.footer-text {
+.footer-text p {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
