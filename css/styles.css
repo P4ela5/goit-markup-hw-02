@@ -86,13 +86,31 @@ ul {
     background-color: #404BBF;
 }
 
-.ot-header {
+.skill-header {
     font-weight: 500;
     color: #2e2f42;
-    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02em;  
+    letter-spacing: 0.02em;
+}
+
+.skill-text {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.team-list {
+    background-color: #FFFFFF;
+}
+.ot-header {
+    color: #2e2f42;
+    letter-spacing: 0.02em; 
+    font-size: 36px;
+    line-height: 1.11; 
+    text-align: center ;
+    text-transform: capitalize;
 }
 
 .ot-text {
@@ -100,6 +118,7 @@ ul {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    
 }
 .our-team-title {
     font-weight: 500;
@@ -115,9 +134,10 @@ ul {
     text-align: center;
 }
 
-.portfolio-section {
-    background-color: #F4F4FD;
+.team-section {
+    background-color: #F4F4FD
 }
+
 .portfolio-title {
     font-size: 36px;
     line-height: 1.11;
@@ -126,6 +146,11 @@ ul {
     text-align: center;
     color: #2e2f42;
 }
+
+.portfolio-img {
+    background-color: #FFFFFF
+}
+
 .portfolio-header {
     font-weight: 500;
     color: #2e2f42;
