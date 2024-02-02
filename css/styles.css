@@ -41,16 +41,14 @@ ul {
 .contacts {
     font-style: normal
 }
-.header-address-link {
+
+.header-mail-link, .header-address-link  {
     color: #434455;
     letter-spacing: 0.02em;  
-} 
-
-.header-address-link:hover {
-    color: #404bbf;
 }
 
-.header-addres-link:focus {
+.header-mail-link:hover, .header-address-link:hover,
+.header-mail-link:focus, .header-address-link:focus {
     color: #404bbf;
 }
 
@@ -101,7 +99,7 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.team-list {
+.team-item {
     background-color: #FFFFFF;
 }
 
