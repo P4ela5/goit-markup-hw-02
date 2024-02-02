@@ -101,10 +101,11 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.our-team-title h2 {
+.our-team-title {
+    font-weight: 500;
     color: #2e2f42;
-    font-size: 36px;
-    line-height: 1.11111;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
@@ -117,7 +118,7 @@ ul {
 .portfolio-section {
     background-color: #F4F4FD;
 }
-.portfolio-title h2 {
+.portfolio-title {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
