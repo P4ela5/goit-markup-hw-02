@@ -42,13 +42,12 @@ ul {
     font-style: normal
 }
 
-.header-mail-link, .header-address-link  {
+.header-link {
     color: #434455;
     letter-spacing: 0.02em;  
 }
 
-.header-mail-link:hover, .header-address-link:hover,
-.header-mail-link:focus, .header-address-link:focus {
+.header-link:hover, .header-link:focus {
     color: #404bbf;
 }
 
