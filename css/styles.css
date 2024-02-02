@@ -42,12 +42,12 @@ ul {
     font-style: normal
 }
 
-.header-link {
+.addr-link {
     color: #434455;
     letter-spacing: 0.02em;  
 }
 
-.header-link:hover, .header-link:focus {
+.addr-link:hover, .addr-link:focus {
     color: #404bbf;
 }
 
